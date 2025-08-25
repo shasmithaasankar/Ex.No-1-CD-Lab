@@ -4,7 +4,7 @@
 
 # Register Number : 212224040311
 
-# Date : 22.08.2025
+# Date : 18.08.2025
 
 # AIM:
 
@@ -108,6 +108,8 @@ int main() {
 
 # OUTPUT:
 <img width="678" height="378" alt="image" src="https://github.com/user-attachments/assets/f335da7d-54d2-4933-92c1-2f8a12b83d32" />
+<img width="973" height="490" alt="image" src="https://github.com/user-attachments/assets/df59c73d-b02a-48fb-97a8-5fc95c0d89a4" />
+
 
 
 # RESULT:
